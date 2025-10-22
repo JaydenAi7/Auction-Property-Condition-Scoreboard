@@ -144,7 +144,7 @@ def overall_condition(bpo_category, sub_categories):
 
 # === NLP DATA PROCESSING ===
 def process_nlp_data():
-    df = pd.read_excel(NLP_INPUT_PATH).iloc[500:550, :]
+    df = pd.read_excel(NLP_INPUT_PATH).iloc[:50, :]
     results = []
 
     for _, row in tqdm(df.iterrows(), total=len(df), desc="Evaluating NLP Data"):
@@ -178,7 +178,7 @@ def process_nlp_data():
 
 # === BPO DATA PROCESSING ===
 def process_bpo_data():
-    df = pd.read_excel(BPO_INPUT_PATH).iloc[500:550, :]
+    df = pd.read_excel(BPO_INPUT_PATH).iloc[:50, :]
     results = []
 
     for _, row in tqdm(df.iterrows(), total=len(df), desc="Evaluating BPO Notes"):
