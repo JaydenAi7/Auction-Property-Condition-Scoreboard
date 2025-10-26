@@ -8,7 +8,7 @@
 
 The **Auction Property Condition Scoreboard** ingests text-heavy inspection reports from real estate auction providers and transforms them into a structured “scoreboard” summarizing property condition. It uses a hybrid of **NLP, rule-based logic**, and **human-in-the-loop** review to ensure high accuracy and auditability.
 
-![plot]((https://github.com/JaydenAi7/Auction-Property-Condition-Scoreboard/Figure_1.png))
+![Auction Property Condition Scoreboard](https://raw.githubusercontent.com/JaydenAi7/Auction-Property-Condition-Scoreboard/main/Figure_1.png)
 
 ---
 
