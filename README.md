@@ -15,7 +15,7 @@ The **Auction Property Condition Scoreboard** ingests text-heavy inspection repo
 - **BPO Notes (General Condition):** Free-text narrative from inspectors.
 - **Subcategory Notes (Detailed):** Area-specific comments (e.g., kitchen, roof, utilities).
 - **Optional Metadata:** Inspection date, photo counts, inspector/source ID.
-- **URL FOR YOUR AI**
+- **URL for your API**
 
 ---
 
