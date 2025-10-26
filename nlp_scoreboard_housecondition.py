@@ -3,7 +3,7 @@ import requests
 from tqdm import tqdm
 
 # === CONFIGURATION ===
-API_URL = "http://127.0.0.1:1234/v1/chat/completions"
+API_URL = "INSERT API URL HERE"
 MODEL_NAME = "mistral-7b-instruct-v0.1"
 
 NLP_INPUT_PATH = "/Users/jaydenai/Desktop/lmstudio/Jayden NLP Data.xlsx"
